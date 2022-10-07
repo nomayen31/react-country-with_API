@@ -1,0 +1,12 @@
+.country{
+    margin: 20px;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 20px;
+    color: brown;
+    border: 2px dotted rgb(46, 116, 133)yellow;
+}
+
+.country img {
+    width: 150;
+}
